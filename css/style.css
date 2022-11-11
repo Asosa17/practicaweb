@@ -142,6 +142,7 @@ header {
     border-right-style: groove;
     margin: 120px 0 0 160px;
     text-align: center;
+    padding-right: 20px;
 }
 
 .seguridad {
@@ -151,6 +152,7 @@ header {
     border-right-style: groove;
     margin: 120px 10px 0 30px;
     text-align: center;
+    padding-right: 20px;
 }
 
 .privacidad {
@@ -158,19 +160,20 @@ header {
     width: 230px;
     height: 350px;
     border-right-style: groove;
-    margin: 120px 0 0 30px;
-    ;
+    margin: 120px 0 0  30px;
+   
     text-align: center;
+    padding-right: 20px;
 }
 
 .familia {
     float: left;
+    
     width: 230px;
     height: 350px;
-
-    margin: 120px 0 0 50px;
-    ;
+    margin: 120px 0 0 30px;
     text-align: center;
+    padding-right: 20px;
 }
 
 .cb {
